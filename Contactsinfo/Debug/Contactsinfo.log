@@ -1,0 +1,29 @@
+﻿生成启动时间为 2015/6/7 15:23:54。
+     1>项目“E:\大三下\C程\Contactsinfo\Contactsinfo\Contactsinfo.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Contactsinfo.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Contactinfo.cpp
+         Contactinfo.cpp
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(79): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(91): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(100): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(109): error C2065: “CTCS”: 未声明的标识符
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(109): error C2146: 语法错误: 缺少“;”(在标识符“t”的前面)
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(109): error C2065: “t”: 未声明的标识符
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(121): error C2065: “t”: 未声明的标识符
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(123): error C2065: “t”: 未声明的标识符
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(393): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(395): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(396): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>e:\大三下\c程\contactsinfo\contactsinfo\contactinfo.cpp(398): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>已完成生成项目“E:\大三下\C程\Contactsinfo\Contactsinfo\Contactsinfo.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.01
